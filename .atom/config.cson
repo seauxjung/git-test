@@ -1,0 +1,7 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "a4cb6660-169b-4ae7-aedb-53a3d74f5252"
+  "linter-ui-default":
+    showPanel: true
